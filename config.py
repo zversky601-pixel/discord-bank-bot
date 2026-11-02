@@ -1,4 +1,5 @@
-
+import os
+TOKEN = os.getenv("DISCORD_TOKEN")
 GUILD_ID = 1542459952134889522
 
 CURRENCY_NAME = "руб."
